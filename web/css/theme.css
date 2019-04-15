@@ -448,3 +448,8 @@ section {
 	outline:0;
 	outline: none;
 }
+
+thead {
+	font-size:50px;
+        font-weight: bold;
+}
